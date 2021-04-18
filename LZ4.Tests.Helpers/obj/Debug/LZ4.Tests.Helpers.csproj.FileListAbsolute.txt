@@ -1,0 +1,5 @@
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4.Tests.Helpers\bin\Debug\LZ4.Tests.Helpers.dll
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4.Tests.Helpers\bin\Debug\LZ4.Tests.Helpers.pdb
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4.Tests.Helpers\obj\Debug\LZ4.Tests.Helpers.csproj.CoreCompileInputs.cache
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4.Tests.Helpers\obj\Debug\LZ4.Tests.Helpers.dll
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4.Tests.Helpers\obj\Debug\LZ4.Tests.Helpers.pdb

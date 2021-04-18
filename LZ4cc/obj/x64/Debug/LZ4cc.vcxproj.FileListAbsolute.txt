@@ -1,0 +1,1 @@
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4cc\obj\x64\Debug\LZ4cc.vcxprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+﻿  Stdafx.cpp
+  LZ4Codec.32.cpp
+  LZ4Codec.64.cpp
+  LZ4Codec.Shared.cpp
+  AssemblyInfo.cpp
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4mm\AssemblyInfo.cpp(40,29): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4mm\AssemblyInfo.cpp(40,29): message : Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  Generating Code...
+  .NETFramework,Version=v4.0,Profile=Client.AssemblyAttributes.cpp
+  LZ4Codec.32.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  LZ4Codec.32.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+libLZ4.lib(lz4_32.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  LZ4mm.vcxproj -> D:\pdf\lz4net\sourceCode\lz4net\source\bin\x64\Debug\LZ4mm.dll

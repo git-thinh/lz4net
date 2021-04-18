@@ -1,0 +1,5 @@
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4s\bin\Debug\LZ4s.dll
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4s\bin\Debug\LZ4s.pdb
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4s\obj\Debug\LZ4s.csproj.CoreCompileInputs.cache
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4s\obj\Debug\LZ4s.dll
+D:\pdf\lz4net\sourceCode\lz4net\source\LZ4s\obj\Debug\LZ4s.pdb
